@@ -1,14 +1,1 @@
-[
-  {
-    "title": "Schum PayPal-Auszahlung",
-    "provider": "Schum",
-    "category": "Umfrage-App",
-    "description": "Beispiel fuer eine kleine Auszahlung per PayPal ohne Krypto-Verkaufsgebuehr.",
-    "status": "active",
-    "buttonLabel": "Zum Anbieter",
-    "url": "#",
-    "lastChecked": "2026-06-06"
-  },
-  {
-    "title": "Beispiel: abgelaufener Bonus",
-    "provider": "Demo
+[{"title":"Schum PayPal","provider":"Schum","category":"App","description":"PayPal-Auszahlung testen.","status":"active","buttonLabel":"Zum Anbieter","url":"#","lastChecked":"2026-06-06"}]
