@@ -1,16 +1,14 @@
 [
   {
-    "title": "Schum Auszahlung per PayPal",
+    "title": "Schum PayPal-Auszahlung",
     "provider": "Schum",
     "category": "Umfrage-App",
-    "description": "Geeignet fuer kleine Auszahlungen, wenn du Krypto-Verkaufsgebuehren vermeiden willst.",
+    "description": "Beispiel fuer eine kleine Auszahlung per PayPal ohne Krypto-Verkaufsgebuehr.",
     "status": "active",
     "buttonLabel": "Zum Anbieter",
     "url": "#",
     "lastChecked": "2026-06-06"
   },
   {
-    "title": "Freecash Test",
-    "provider": "Freecash",
-    "category": "Geld verdienen",
-    "description": "Online
+    "title": "Beispiel: abgelaufener Bonus",
+    "provider": "Demo
